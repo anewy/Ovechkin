@@ -1,5 +1,5 @@
 # Ovechkin
 Это репозиторий для проекта по анализу рекорда голов хоккеиста Александра Овечкина
-1. Parsing. Сбор данных. Сбор с помощью API (request, beautiful soup), склейка данных (pandas) 
-2 Этап. Обработка данных. Очистка, анализ, визуализация (pandas, datetime, matplotlib, seaborn)
-3 Этап. Прогнозирование, построение модели машинного обучения (statsmodels, sklearn)
+1. Parsing. Сбор данных. Сбор с помощью API (request, beautiful soup), склейка данных (pandas)
+2. Обработка данных. Очистка, анализ, визуализация (pandas, datetime, matplotlib, seaborn)
+3. Прогнозирование, построение модели машинного обучения (statsmodels, sklearn)
